@@ -1,5 +1,5 @@
-# Enter Cloud Suite Guides
-<http://entercloudsuite.github.io>
+# Enter Mail Guides
+<http://entermail.github.io>
 
 &nbsp;
 
